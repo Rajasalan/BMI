@@ -1,3 +1,4 @@
 # BMI
 
-https://rajasalan.github.io/BMI/index.html
+https://rajasalan.github.io/BMI/
+
