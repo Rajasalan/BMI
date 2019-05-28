@@ -1,3 +1,3 @@
 # BMI
 
-https://github.com/Rajasalan/BMI
+https://rajasalan.github.io/BMI/index.html
